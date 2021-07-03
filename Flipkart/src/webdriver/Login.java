@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Login {
-
+public void jayashri(){
 	public static void main(String[] args)
 	{
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\admin\\Desktop\\Automation\\browser\\chromedriver.exe");
@@ -14,4 +14,5 @@ public class Login {
 		
 	}
 
+}
 }
